@@ -19,8 +19,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/vignesh-c-136bb9219/](https://www.linkedin.com/in/keerthana-rajendhiran?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
- <a href="https://vignesh-vc.github.io/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-rajendhiran?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+
 
  ### 💻 OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
